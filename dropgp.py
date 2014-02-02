@@ -29,7 +29,6 @@ import dropbox
 import webbrowser
 import pwd
 import sys
-import subprocess
 import gnupg
 
 class dropgp:
